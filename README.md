@@ -1,5 +1,5 @@
 # Analyzing-Personal-Expenses
-Skills take away From This Project
+# Skills take away From This Project
 Python, SQL, 
 # Domain
 Personal Finance and Expense Tracking
